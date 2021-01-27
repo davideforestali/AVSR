@@ -1,0 +1,16 @@
+
+/* Colors */
+
+ $blue: #1b4289;
+ $blue-light: #3b6abf;
+ $blue-opacity6: rgba(27, 66, 137, 0.6); 
+ $grey: #999;
+ $light-grey: #EAEAEA;
+
+/* Imports */
+
+@import 'global'; 
+@import 'sections'; 
+@import 'content_page'; 
+@import 'icons'; 
+@import 'responsive'; 
